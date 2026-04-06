@@ -1,3 +1,5 @@
-file 1
-another line
-
+Tony Stark stared at the screen, exhausted. "JARVIS, why won't it let me push? What is a 'merge conflict' and why is it insulting my intelligence?"
+"It appears you are out of sync with the master branch, sir," JARVIS replied.
+Tony tried to `force push`, failed, and accidentally deleted his local repo. He sighed, rubbed his eyes, and opened his banking app. "Fine. Buy GitHub. All of it."
+"Done, sir. You are now the owner."
+"Great," Tony smirked. "**Shut it down.** If I can't commit my code, nobody can. Problem solved."
